@@ -4,3 +4,4 @@ day 2
 continues 
 day 4
 tdy
+fri
