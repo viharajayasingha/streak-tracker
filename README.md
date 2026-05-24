@@ -5,3 +5,4 @@ continues
 day 4
 tdy
 fri
+sun
