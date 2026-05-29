@@ -6,4 +6,5 @@ day 4
 tdy
 fri
 sun
+fr
 thur
